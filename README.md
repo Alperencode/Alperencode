@@ -39,6 +39,17 @@
 <summary>:bulb:  Most Used Languages</summary>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alperencode&layout=compact" >
 </details>
+<br/>
+<br/>
+
+## My Blog Posts
+<ul>
+<li>
+
+### [What is Bad Usb?](https://medium.com/@alperenaga/bad-usb-5a0cd2790e09)
+
+</li>
+</ul>
 
 
 [linkedin]: https://www.linkedin.com/in/alperenaga
