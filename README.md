@@ -30,10 +30,10 @@
 
 <br />
 
-<details>
+
 <summary>:bulb: Github Stats</summary>
 <img src="https://github-readme-stats.vercel.app/api?username=alperencode&theme=dracula" >
-</details>
+
 
 <details>
 <summary>:bulb:  Most Used Languages</summary>
