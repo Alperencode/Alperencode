@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/ekjmhJUGHJm7FC4Juo/giphy.gif?cid=ecf05e478eri1kjk5g9rio3u0avboq3mx6k5a1mxu07uu5ci&rid=giphy.gif&ct=g" align="right" width="400" height="250">
+<img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif?cid=790b761110123f073736663fcd84311e0805e0295912e063&rid=giphy.gif&ct=g" align="right" width="400" height="250">
 
 ### Hi there, I'm Alperen. :computer:
 
