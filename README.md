@@ -2,9 +2,11 @@
 
 ### Hi there, I'm Alperen. :computer:
 
-## React Developer | Youtube Content Creator
+## Python Developer | Software Engineering Student
 
+<font>Hi! I'm currently a Software Engineering student, and here is my GitHub profile!</font>
 
+<br />
 ### Reach out to me
 
 
