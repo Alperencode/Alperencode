@@ -1,46 +1,49 @@
-<img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif?cid=790b761110123f073736663fcd84311e0805e0295912e063&rid=giphy.gif&ct=g" align="right" width="400" height="250">
+<br/><br/><br/>
 
-### Hi there, I'm Alperen. :computer:
+<img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif?cid=790b761110123f073736663fcd84311e0805e0295912e063&rid=giphy.gif&ct=g" align="right" width="450" height="300">
 
-## Python Developer | Software Engineering Student
+<h1 align="left"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="32" />Hi there, I'm Alperen :computer:</h1>
+<br/>
+
+
+### Python Developer | Software Engineering Student
 
 <font>Hi! I'm currently a Software Engineering student, and here is my GitHub profile!</font>
 
+<br /><br /><br /><br />
+
+
+
+<p align="left">:bulb: Github Stats</p>
+<img src="https://github-readme-stats.vercel.app/api?username=alperencode&theme=dracula" align="left" >
+
+
+<p align="right">Most Used Languages :bulb:</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alperencode&layout=compact" align="right" >
+
+<br /><br /><br /><br /><br /><br /><br />
+
+<h2 align="center">Tech I use:</h2>
+
+<p align="center">
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+<code><img width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"></code>
+<code><img width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/arduino/arduino-ar21.svg"></code>
+<br />
+<code><img width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></code>
+</p>
+<h3 align="center">Tools:</h3>
+<p align="center">
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+<code><img width="5%" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg"></code>
+</p>
+
+<br />
 <br />
 
-### Reach out to me
-
-
-[<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/linkedin.svg" align="left" />][linkedin]
-[<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/instagram.svg" align="left" />][instagram]
-
-<br />
-<br />
-
-### Tech I use
-
-<img align="left"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="25" height="25" />
-<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png" width="25" height="25" />
-<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" width="25" height="25" />
-<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png" width="25" height="25" />
-<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" width="25" height="25" />
-<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="25" height="25" />
-
-<br />
-
-<br />
-
-
-<summary>:bulb: Github Stats</summary>
-<img src="https://github-readme-stats.vercel.app/api?username=alperencode&theme=dracula" >
-
-
-<details>
-<summary>:bulb:  Most Used Languages</summary>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alperencode&layout=compact" >
-</details>
-<br/>
-<br/>
 
 ## My Blog Posts
 <ul>
@@ -51,6 +54,11 @@
 </li>
 </ul>
 
+<h2 align="center">Connect with me:</h2>
+<p align="center">
+<a href="https://www.instagram.com/_.alperen__" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-ar21.svg" alt="_.alperen__" width="10%" /></a>
+<a href="https://www.linkedin.com/in/alperenaga/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" alt="alperenaga" width="10%" /></a>
+</p>
 
 [linkedin]: https://www.linkedin.com/in/alperenaga
 [instagram]: https://www.instagram.com/_.alperen__/
