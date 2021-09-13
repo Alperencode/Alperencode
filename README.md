@@ -15,11 +15,10 @@
 
 
 <p align="left">:bulb: Github Stats</p>
-<img src="https://github-readme-stats.vercel.app/api?username=alperencode&theme=dracula" align="left" >
+<img src="https://github-readme-stats.vercel.app/api?username=alperencode&theme=dracula" align="left">
 
-
-<p align="right">Most Used Languages :bulb:</p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alperencode&layout=compact" align="right" >
+<p align="left">:bulb: Most Used Languages </p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alperencode&layout=compact" align="left" >
 
 <br /><br /><br /><br /><br /><br /><br />
 
