@@ -10,17 +10,17 @@
 
 <font>Hi! I'm currently a Software Engineering student, and here is my GitHub profile!</font>
 
-<br /><br /><br /><br />
+<br /><br /><br />
 
 
 
 <p align="left">:bulb: Github Stats</p>
-<img src="https://github-readme-stats.vercel.app/api?username=alperencode&theme=dracula" align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=alperencode&theme=dracula">
 
 <p align="left">:bulb: Most Used Languages </p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alperencode&layout=compact" align="left" >
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alperencode&layout=compact">
 
-<br /><br /><br /><br /><br /><br /><br />
+<br />
 
 <h2 align="center">Tech I use:</h2>
 
