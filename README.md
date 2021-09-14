@@ -18,7 +18,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=alperencode&theme=dracula">
 
 <p align="left">:bulb: Most Used Languages </p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alperencode&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alperencode&layout=compact&theme=dark">
 
 <br />
 
