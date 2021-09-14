@@ -15,7 +15,7 @@
 
 
 <p align="left">:bulb: Github Stats</p>
-<img src="https://github-readme-stats.vercel.app/api?username=alperencode&theme=dracula">
+<img src="https://github-readme-stats.vercel.app/api?username=alperencode&theme=merko">
 
 <p align="left">:bulb: Most Used Languages </p>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alperencode&layout=compact&theme=dark">
