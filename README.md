@@ -9,10 +9,10 @@
 <h3> Python Developer | Software Engineering Student</h3
 
 <font>Hi! I'm currently a Software Engineering student, and here is my GitHub profile!</font>
-
 <br /><br /><br />
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Comfortaa&color=%23C6B69D&center=true&vCenter=true&lines=I'm+currently+working+on+VR;And+researching+about+Flutter)](https://git.io/typing-svg)
 
-
+<br />
 
 <p align="left">:bulb: Github Stats</p>
 <img src="https://github-readme-stats.vercel.app/api?username=alperencode&theme=merko">
@@ -58,6 +58,7 @@
 <a href="https://www.instagram.com/_.alperen__" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-ar21.svg" alt="_.alperen__" width="10%" /></a>
 <a href="https://www.linkedin.com/in/alperenaga/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" alt="alperenaga" width="10%" /></a>
 </p>
+
 
 [linkedin]: https://www.linkedin.com/in/alperenaga
 [instagram]: https://www.instagram.com/_.alperen__/
