@@ -12,7 +12,7 @@
 <br /><br /><br />
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Comfortaa&color=%23C6B69D&center=true&vCenter=true&lines=I'm+currently+working+on+VR;And+researching+about+Flutter)](https://git.io/typing-svg)
 
-<br />
+<br /><br />
 
 <p align="left">:bulb: Github Stats</p>
 <img src="https://github-readme-stats.vercel.app/api?username=alperencode&theme=merko">
