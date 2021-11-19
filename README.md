@@ -10,7 +10,7 @@
 
 <font>Hi! I'm currently a Software Engineering student, and here is my GitHub profile!</font>
 <br /><br /><br />
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Comfortaa&color=%23C6B69D&center=true&vCenter=true&lines=I'm+currently+working+on+VR;And+researching+about+Flutter)](https://github.com/Alperencode/Flutter)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Comfortaa&color=%23F0AA5D&center=true&vCenter=true&lines=I'm+currently+working+on+VR;And+researching+about+Flutter)](https://github.com/Alperencode/Flutter)
 
 <br /><br />
 
@@ -22,7 +22,7 @@
 
 <br />
 
-<h2 align="center">Tech I use:</h2>
+<h2 align="center">Techs I use:</h2>
 
 <p align="center">
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
