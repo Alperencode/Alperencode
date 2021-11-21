@@ -1,6 +1,6 @@
 <br/><br/><br/>
 
-<img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif?cid=790b761110123f073736663fcd84311e0805e0295912e063&rid=giphy.gif&ct=g" align="right" width="450" height="300">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="right" width="450" height="300">
 
 <h1 align="left"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="32" />Hi there, I'm Alperen :computer:</h1>
 <br/>
@@ -10,15 +10,15 @@
 
 <font>Hi! I'm currently a Software Engineering student, and here is my GitHub profile!</font>
 <br /><br /><br />
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Comfortaa&color=%23F0AA5D&center=true&vCenter=true&lines=I'm+currently+working+on+VR;And+learning+Dart+language)](https://github.com/Alperencode/Flutter)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Comfortaa&color=%234B92D7&center=true&vCenter=true&lines=I'm+currently+working+on+VR;And+learning+Dart+language)](https://github.com/Alperencode/Flutter)
 
 <br /><br />
 
 <p align="left">:bulb: Github Stats</p>
-<img src="https://github-readme-stats.vercel.app/api?username=alperencode&theme=merko">
+<img src="https://github-readme-stats.vercel.app/api?username=alperencode&theme=discord_old_blurple">
 
 <p align="left">:bulb: Most Used Languages </p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alperencode&layout=compact&theme=dark">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alperencode&layout=compact&theme=discord_old_blurple">
 
 <br />
 
