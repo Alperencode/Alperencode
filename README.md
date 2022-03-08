@@ -10,7 +10,7 @@
 
 <font>Hi! I'm a Software Engineering student, and here is my GitHub profile!</font>
 <br /><br /><br />
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Comfortaa&color=%2399CF6D&center=true&vCenter=true&lines=I'm+currently+working+on+VR;and+keep+solving+Algorithm+problems+)](https://github.com/Alperencode/Python)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Comfortaa&color=%2399CF6D&center=true&vCenter=true&lines=Currently+working+on+Object+Detection;and+keep+solving+Algorithm+problems+)](https://github.com/Alperencode/Python)
 
 <br /><br />
 
