@@ -10,9 +10,22 @@
 
 <font>Hi! I'm a Software Engineering student, and here is my GitHub profile!</font>
 
-<br><br><br>
+<br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Comfortaa&color=%2399CF6D&center=true&vCenter=true&lines=I'm+currently+learning+Flutter;and+keep+solving+Algorithm+problems+)](https://github.com/Alperencode/Flutter)
+<h3> Currently: </h3>
+
+<font>  
+  
+  - Learning [Flutter](https://github.com/Alperencode/Flutter) 📘
+  - Solving [Algorithm Problems](https://github.com/Alperencode/Algorithm-Solutions) 👨‍💻
+  
+</font>
+
+<br>
+
+<!--- 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Comfortaa&color=%2399CF6D&center=true&vCenter=true&lines=I'm+currently+learning+Flutter;and+keep+solving+Algorithm+problems+)](https://github.com/Alperencode/Flutter) 
+--->
 
 <br><br>
 
