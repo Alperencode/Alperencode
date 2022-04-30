@@ -17,7 +17,8 @@
 <font>  
   
   - Learning [Flutter](https://github.com/Alperencode/Flutter) 📘
-  - Solving [Algorithm Problems](https://github.com/Alperencode/Algorithm-Solutions) 👨‍💻
+  - Taking [Notes](https://github.com/Alperencode/Notes) about what I'm learning ✍🏼
+  - Solving [Algorithm Problems](https://github.com/Alperencode/Algorithm-Solutions) in my free time 👨‍💻
   
 </font>
 
