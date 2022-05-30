@@ -1,6 +1,6 @@
 <br><br><br>
 
-<img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif?cid=790b761110123f073736663fcd84311e0805e0295912e063&rid=giphy.gif&ct=g" align="right" width="450" height="300">
+<img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif?cid=790b761110123f073736663fcd84311e0805e0295912e063&rid=giphy.gif&ct=g" align="right" width="400" height="300">
 
 
 <h1 align="left"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="32" />Hi there, I'm Alperen :computer:</h1>
