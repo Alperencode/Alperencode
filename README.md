@@ -18,7 +18,7 @@
   - Taking [Notes](https://github.com/Alperencode/Notes) about what I'm learning ✍🏼
   - Solving [Algorithm Problems](https://github.com/Alperencode/Algorithm-Solutions) in my free time 👨‍💻
   
-    - <a href="https://www.codewars.com/users/Alperencode"> <img align="left" src="https://www.codewars.com/users/Alperencode/badges/large" height=35> </a>
+    - <a href="https://www.codewars.com/users/Alperencode"> <img align="left" src="https://www.codewars.com/users/Alperencode/badges/large" height=35 width=325> </a>
   
 </font>
 
