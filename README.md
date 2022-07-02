@@ -14,7 +14,7 @@
 
 <font>  
   
-  - Learning [Flutter](https://github.com/Alperencode/Flutter) 📘
+  - Working as an intern at [Lemona Science](https://github.com/Alperencode/Lemona-Science) 🍋
   - Taking [Notes](https://github.com/Alperencode/Notes) about what I'm learning ✍🏼
   - Solving [Algorithm Problems](https://github.com/Alperencode/Algorithm-Solutions) in my free time 👨‍💻
   
