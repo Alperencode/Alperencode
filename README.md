@@ -33,9 +33,6 @@
 <p align="left">:bulb: Github Stats</p>
 <img src="https://github-readme-stats.vercel.app/api?username=alperencode&theme=gruvbox&show_icons=true">
 
-<p align="left">:bulb: Most Used Languages </p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alperencode&layout=compact&theme=gruvbox">
-
 <br>
 
 <h2 align="center">Techs I use:</h2>
