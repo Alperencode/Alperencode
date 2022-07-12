@@ -72,10 +72,6 @@
 
 <h2 align="center">Contact with me:</h2>
 <p align="center">
-<a href="https://www.instagram.com/_.alperen__" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-ar21.svg" alt="_.alperen__" width="10%" /></a>
+<a href="https://www.instagram.com/whoisbrow" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-ar21.svg" alt="_.alperen__" width="10%" /></a>
 <a href="https://www.linkedin.com/in/alperenaga/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" alt="alperenaga" width="10%" /></a>
 </p>
-
-
-[linkedin]: https://www.linkedin.com/in/alperenaga
-[instagram]: https://www.instagram.com/_.alperen__/
