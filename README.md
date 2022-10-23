@@ -35,18 +35,28 @@
 
 <br>
 
-<h2 align="center">Techs I use:</h2>
+<h2 align="center">Main Techs I use:</h2>
 
 <p align="center">
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <code><img width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"></code>
-<code><img width="13%" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-ar21.svg"></code>
-<br>
 <code><img width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></code>
+</p>
+
+<br>
+
+<h2 align="center">Techs I've used:</h2>
+
+<p align="center">
+<code><img width="13%" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/arduino/arduino-ar21.svg"></code>
 <code><img width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></code>
+<code><img width="5%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg"></code>
 <code><img width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"></code>
 </p>
+
+<br>
+
 <h3 align="center">Tools:</h3>
 <p align="center">
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
