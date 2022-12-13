@@ -6,7 +6,7 @@
 
 <h3 align="Left"> Python Developer | Software Engineering Student</h3>
 
-<font>Hi! I'm a Software Engineering student, and here is my GitHub profile!</font>
+<font>Hi! I'm a Software Engineering student, and here is my GitHub profile :octocat:	</font>
 
 <br>
 
@@ -14,21 +14,25 @@
 
 <font>  
   
-  - Working as an intern at [Lemona Science](https://github.com/Alperencode/Lemona-Science) 🍋
-  - Taking [Notes](https://github.com/Alperencode/Notes) about what I'm learning ✍🏼
+  - Learning Data-Structures in [C and C++](https://github.com/Alperencode/C-and-CPP) ✍
   - Solving [Algorithm Problems](https://github.com/Alperencode/Algorithm-Solutions) in my free time 👨‍💻
   
     - <a href="https://www.codewars.com/users/Alperencode"> <img align="left" src="https://www.codewars.com/users/Alperencode/badges/large" height=35 width=325> </a>
+  
+    <br>
+  
+    - <a href="https://www.hackerrank.com/alperencode" target="blank"> <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="alperencode" height="50" width="75" /> </a>
+  
+    <br>
+    <br>
+    
+    - <a href="https://www.leetcode.com/alperencode" target="blank"> <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="alperencode" height="50" width="75" /></a>
   
 </font>
 
 <br>
 
-<!--- 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Comfortaa&color=%2399CF6D&center=true&vCenter=true&lines=I'm+currently+learning+Flutter;and+keep+solving+Algorithm+problems+)](https://github.com/Alperencode/Flutter) 
---->
-
-<br><br>
+<br>
 
 <p align="left">:bulb: Github Stats</p>
 <img src="https://github-readme-stats.vercel.app/api?username=alperencode&theme=gruvbox&show_icons=true">
@@ -57,7 +61,7 @@
 
 <br>
 
-<h3 align="center">Tools:</h3>
+<h2 align="center">Tools:</h3>
 <p align="center">
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-ar21.svg"></code>
@@ -83,10 +87,5 @@
 <h2 align="center">Contact with me:</h2>
 <p align="center">
 <a href="mailto:alperencode@gmail.com?body=Hi%20Alperen%2C%0D%0A%0D%0A" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-ar21.svg" alt="alperenaga" width="10%" /></a>
-<!---
-<a href="https://www.instagram.com/whoisbrow" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-ar21.svg" alt="_.alperen__" width="10%" /></a>
---->
 <a href="https://www.linkedin.com/in/alperenaga/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" alt="alperenaga" width="10%" /></a>
 </p>
-
-
