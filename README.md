@@ -76,13 +76,11 @@
 
 
 ## My Blog Posts
-<ul>
-<li>
-
-### [What is Bad Usb?](https://medium.com/@alperenaga/bad-usb-5a0cd2790e09)
-
-</li>
-</ul>
+<h3>
+  <ul>
+    <li> <a href="https://medium.com/@alperenaga/bad-usb-5a0cd2790e09" target="blank">What is Bad Usb ?</a> </li>
+  </ul>
+</h3>
 
 <h2 align="center">Contact with me:</h2>
 <p align="center">
