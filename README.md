@@ -69,6 +69,7 @@
 <br>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 <code><img width="5%" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg"></code>
+<code><img width="4%" src="https://www.vectorlogo.zone/logos/vim/vim-icon.svg"></code>
 </p>
 
 <br>
