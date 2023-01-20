@@ -34,7 +34,7 @@
 <p align="left">:bulb: Github Stats</p>
 <img src="https://github-readme-stats.vercel.app/api?username=alperencode&theme=gruvbox&show_icons=true">
 
-<br><hr>
+<br>
 
 <h2 align="center">Main Techs I use:</h2>
 
@@ -82,7 +82,7 @@
 
 <h2 align="center">Contact with me:</h2>
 
-<center>
+<p align=center>
   <a href="mailto:alperencode@gmail.com?body=Hi%20Alperen%2C%0D%0A%0D%0A" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-ar21.svg" alt="alperenaga" width="10%" /></a>
   <a href="https://www.linkedin.com/in/alperenaga/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" alt="alperenaga" width="10%" /></a>
-</center>
+</p>
