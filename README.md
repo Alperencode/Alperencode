@@ -12,32 +12,29 @@
 
 <h3> Currently: </h3>
 
-<font>  
-  
   - Learning Data-Structures in [C and C++](https://github.com/Alperencode/C-and-CPP) ✍
   - Solving [Algorithm Problems](https://github.com/Alperencode/Algorithm-Solutions) in my free time 👨‍💻
   
-    - <a href="https://www.codewars.com/users/Alperencode"> <img align="left" src="https://www.codewars.com/users/Alperencode/badges/large" height=35 width=325> </a>
+    - CodeWars
   
-    <br>
-  
-    - <a href="https://www.hackerrank.com/alperencode" target="blank"> <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="alperencode" height="50" width="75" /> </a>
-  
-    <br>
+      - <a href="https://www.codewars.com/users/Alperencode"> <img align="left" src="https://www.codewars.com/users/Alperencode/badges/large" height=35 width=325> </a> 
+
     <br>
     
-    - <a href="https://www.leetcode.com/alperencode" target="blank"> <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="alperencode" height="50" width="75" /></a>
+    - HackerRank
+      - <a href="https://www.hackerrank.com/alperencode" target="blank"> <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="alperencode" height="45" width="70" /> </a> 
+    
+    <br>
   
-</font>
-
-<br>
-
-<br>
+    - LeetCode
+      - <a href="https://www.leetcode.com/alperencode" target="blank"> <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="alperencode" height="40" width="60" /> </a>
+  
+<br><br>
 
 <p align="left">:bulb: Github Stats</p>
 <img src="https://github-readme-stats.vercel.app/api?username=alperencode&theme=gruvbox&show_icons=true">
 
-<br>
+<br><hr>
 
 <h2 align="center">Main Techs I use:</h2>
 
@@ -72,19 +69,20 @@
 <code><img width="4%" src="https://www.vectorlogo.zone/logos/vim/vim-icon.svg"></code>
 </p>
 
-<br>
-<br>
+<br><br>
 
+<h2> My Blog Posts </h2>
 
-## My Blog Posts
 <h3>
   <ul>
     <li> <a href="https://medium.com/@alperenaga/bad-usb-5a0cd2790e09" target="blank">What is Bad Usb ?</a> </li>
   </ul>
 </h3>
 
+
 <h2 align="center">Contact with me:</h2>
-<p align="center">
-<a href="mailto:alperencode@gmail.com?body=Hi%20Alperen%2C%0D%0A%0D%0A" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-ar21.svg" alt="alperenaga" width="10%" /></a>
-<a href="https://www.linkedin.com/in/alperenaga/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" alt="alperenaga" width="10%" /></a>
-</p>
+
+<center>
+  <a href="mailto:alperencode@gmail.com?body=Hi%20Alperen%2C%0D%0A%0D%0A" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-ar21.svg" alt="alperenaga" width="10%" /></a>
+  <a href="https://www.linkedin.com/in/alperenaga/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" alt="alperenaga" width="10%" /></a>
+</center>
