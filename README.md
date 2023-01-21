@@ -24,7 +24,7 @@
     - HackerRank
       - <a href="https://www.hackerrank.com/alperencode" target="blank"> <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="alperencode" height="45" width="70" /> </a> 
     
-    <br>
+    <br><br>
   
     - LeetCode
       - <a href="https://www.leetcode.com/alperencode" target="blank"> <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="alperencode" height="40" width="60" /> </a>
