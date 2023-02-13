@@ -15,19 +15,19 @@
   - Learning Data-Structures in [C and C++](https://github.com/Alperencode/C-and-CPP) ✍
   - Solving [Algorithm Problems](https://github.com/Alperencode/Algorithm-Solutions) in my free time 👨‍💻
   
-    - CodeWars
+    - [CodeWars](https://github.com/Alperencode/Algorithm-Solutions/tree/master/CodeWars)
   
       - <a href="https://www.codewars.com/users/Alperencode"> <img align="left" src="https://www.codewars.com/users/Alperencode/badges/large" height=35 width=325> </a> 
 
     <br>
     
-    - HackerRank
+    - [HackerRank](https://github.com/Alperencode/Algorithm-Solutions/tree/master/HackerRank)
     
       - <a href="https://www.hackerrank.com/alperencode" target="blank"> <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="alperencode" height="45" width="70" /> </a> 
     
     <br>
   
-    - LeetCode
+    - [LeetCode](https://github.com/Alperencode/Algorithm-Solutions/tree/master/LeetCode)
    
       - <a href="https://www.leetcode.com/alperencode" target="blank"> <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="alperencode" height="40" width="60" /> </a>
   
@@ -42,8 +42,8 @@
 
 <p align="center">
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-<code><img width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"></code>
 <code><img width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></code>
+<code><img width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"></code>
 </p>
 
 <br>
@@ -53,6 +53,7 @@
 <p align="center">
 <code><img width="13%" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/arduino/arduino-ar21.svg"></code>
+<code><img width="7%" src="img/blazor.svg"></code> <br>
 <code><img width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></code>
 <code><img width="5%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg"></code>
 <code><img width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"></code>
