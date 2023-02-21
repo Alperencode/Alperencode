@@ -12,15 +12,15 @@ Hi! I'm a Software Engineering student and here is my GitHub profile :octocat:
 
 <h3> Currently: </h3>
 
-  - Developing new projects in [C and C++](https://github.com/Alperencode/C-and-CPP) ✍
+  - Developing new projects in [C and C++](https://github.com/Alperencode/C-and-CPP/tree/master/Projects) ✍
   - Solving [Algorithm Problems](https://github.com/Alperencode/Algorithm-Solutions) in my free time 👨‍💻
   
-    - [CodeWars](https://www.codewars.com/users/Alperencode)
+    - <a href="https://www.codewars.com/users/Alperencode" target="_blank"> CodeWars </a>
   
-    - [HackerRank](https://www.hackerrank.com/alperencode?hr_r=1)
-    
-    - [LeetCode](https://leetcode.com/alperencode)
-   
+    - <a href="https://www.hackerrank.com/alperencode?hr_r=1" target="_blank"> HackerRank </a>
+  
+    - <a href="https://leetcode.com/alperencode" target="_blank"> LeetCode </a>
+  
   
 <br><br>
 
