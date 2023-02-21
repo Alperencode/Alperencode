@@ -4,32 +4,23 @@
 
 <br>
 
-<h3 align="Left"> Python Developer | Software Engineering Student</h3>
+<h3 align="Left"> Alperen Ağa | Software Engineering Student</h3>
 
-<font>Hi! I'm a Software Engineering student, and here is my GitHub profile :octocat:	</font>
+Hi! I'm a Software Engineering student and here is my GitHub profile :octocat:
 
 <br>
 
 <h3> Currently: </h3>
 
-  - Learning Data-Structures in [C and C++](https://github.com/Alperencode/C-and-CPP) ✍
+  - Developing new projects in [C and C++](https://github.com/Alperencode/C-and-CPP) ✍
   - Solving [Algorithm Problems](https://github.com/Alperencode/Algorithm-Solutions) in my free time 👨‍💻
   
-    - [CodeWars](https://github.com/Alperencode/Algorithm-Solutions/tree/master/CodeWars)
+    - [CodeWars](https://www.codewars.com/users/Alperencode)
   
-      - <a href="https://www.codewars.com/users/Alperencode"> <img align="left" src="https://www.codewars.com/users/Alperencode/badges/large" height=35 width=325> </a> 
-
-    <br>
+    - [HackerRank](https://www.hackerrank.com/alperencode?hr_r=1)
     
-    - [HackerRank](https://github.com/Alperencode/Algorithm-Solutions/tree/master/HackerRank)
-    
-      - <a href="https://www.hackerrank.com/alperencode" target="blank"> <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="alperencode" height="45" width="70" /> </a> 
-    
-    <br>
-  
-    - [LeetCode](https://github.com/Alperencode/Algorithm-Solutions/tree/master/LeetCode)
+    - [LeetCode](https://leetcode.com/alperencode)
    
-      - <a href="https://www.leetcode.com/alperencode" target="blank"> <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="alperencode" height="40" width="60" /> </a>
   
 <br><br>
 
