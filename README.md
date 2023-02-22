@@ -13,13 +13,20 @@ Hi! I'm a Software Engineering student and here is my GitHub profile :octocat:
 <h3> Currently: </h3>
 
   - Developing new projects in [C and C++](https://github.com/Alperencode/C-and-CPP/tree/master/Projects) ✍
+  
+    - [Text Editor (UNIX)](https://github.com/Alperencode/Text-Editor)
+  
+    - [C Shell](https://github.com/Alperencode/C-Shell)
+  
+  
   - Solving [Algorithm Problems](https://github.com/Alperencode/Algorithm-Solutions) in my free time 👨‍💻
   
-    - <a href="https://www.codewars.com/users/Alperencode" target="_blank"> CodeWars </a>
+    - [CodeWars](https://www.codewars.com/users/Alperencode)
   
-    - <a href="https://www.hackerrank.com/alperencode?hr_r=1" target="_blank"> HackerRank </a>
+    - [HackerRank](https://www.hackerrank.com/alperencode?hr_r=1)
   
-    - <a href="https://leetcode.com/alperencode" target="_blank"> LeetCode </a>
+    - [LeetCode](https://leetcode.com/alperencode)
+  
   
   
 <br><br>
