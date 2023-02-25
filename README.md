@@ -16,7 +16,7 @@ Hi! I'm a Software Engineering student and here is my GitHub profile :octocat:
   
     - [Text Editor (UNIX)](https://github.com/Alperencode/Text-Editor)
   
-    - [C Shell](https://github.com/Alperencode/C-Shell)
+    - [C Shell (UNIX)](https://github.com/Alperencode/C-Shell)
   
   
   - Solving [Algorithm Problems](https://github.com/Alperencode/Algorithm-Solutions) in my free time 👨‍💻
