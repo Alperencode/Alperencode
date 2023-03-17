@@ -74,6 +74,8 @@ Hi! I'm a Software Engineering student and here is my GitHub profile :octocat:
 
 <h2> My Blog Posts </h2>
 
+[![Medium Badge](https://img.shields.io/badge/AlperenAğa-Medium-green?style=for-the-badge&logo=medium)](https://medium.com/@Alperenaga)
+
 <h3>
   <ul>
     <li> <a href="https://medium.com/@alperenaga/bad-usb-5a0cd2790e09" target="blank">What is Bad Usb ?</a> </li>
