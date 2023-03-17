@@ -14,11 +14,13 @@ Hi! I'm a Software Engineering student and here is my GitHub profile :octocat:
 
   - Developing new projects in [C and C++](https://github.com/Alperencode/C-and-CPP/tree/master/Projects) ✍
   
-    - [Text Editor (UNIX)](https://github.com/Alperencode/Text-Editor)
+    - [Text Editor](https://github.com/Alperencode/Text-Editor)  (UNIX)
   
-    - [C Shell (UNIX)](https://github.com/Alperencode/C-Shell)
+    - [C Shell](https://github.com/Alperencode/C-Shell) (UNIX)
   
-  
+    - [Process Manager](https://github.com/Alperencode/Process-Manager) (UNIX)
+
+
   - Solving [Algorithm Problems](https://github.com/Alperencode/Algorithm-Solutions) in my free time 👨‍💻
   
     - [CodeWars](https://www.codewars.com/users/Alperencode)
