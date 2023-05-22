@@ -14,12 +14,12 @@ Hi! I'm a Software Engineering student and here is my GitHub profile :octocat:
 
   - Developing new projects in [C and C++](https://github.com/Alperencode/C-and-CPP/tree/master/Projects) ✍
   
-    - [Text Editor](https://github.com/Alperencode/Text-Editor)  (UNIX)
+    - [Library Book MAtching System](https://github.com/Alperencode/Library-Book-Matching-System) (Windows)
+
+    - [Process Manager](https://github.com/Alperencode/Process-Manager) (UNIX)
   
     - [C Shell](https://github.com/Alperencode/C-Shell) (UNIX)
   
-    - [Process Manager](https://github.com/Alperencode/Process-Manager) (UNIX)
-
 
   - Solving [Algorithm Problems](https://github.com/Alperencode/Algorithm-Solutions) in my free time 👨‍💻
   
@@ -52,6 +52,7 @@ Hi! I'm a Software Engineering student and here is my GitHub profile :octocat:
 <h2 align="center">Techs I've used:</h2>
 
 <p align="center">
+<code><img width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></code>
 <code><img width="13%" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/arduino/arduino-ar21.svg"></code>
 <code><img width="7%" src="img/blazor.svg"></code> <br>
@@ -64,13 +65,14 @@ Hi! I'm a Software Engineering student and here is my GitHub profile :octocat:
 
 <h2 align="center">Tools:</h3>
 <p align="center">
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-ar21.svg"></code>
-<code><img width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg"></code>
-<br>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 <code><img width="5%" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg"></code>
 <code><img width="4%" src="https://www.vectorlogo.zone/logos/vim/vim-icon.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
+<br>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-ar21.svg"></code>
+<code><img width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg"></code>
+
 </p>
 
 <br><br>
