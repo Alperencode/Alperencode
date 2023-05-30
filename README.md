@@ -83,6 +83,7 @@ Hi! I'm a Software Engineering student and here is my GitHub profile :octocat:
 
 <h3>
   <ul>
+    <li> <a href="https://medium.com/@alperenaga/1-5-years-of-consistent-github-contributions-how-it-evolved-my-student-career-390b9b15ebb1" target="blank">1.5 Years of Consistent GitHub Contributions: How It Evolved My Student Career</a> </li><br>
     <li> <a href="https://medium.com/@alperenaga/bad-usb-5a0cd2790e09" target="blank">What is Bad Usb ?</a> </li>
   </ul>
 </h3>
