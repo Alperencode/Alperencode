@@ -12,8 +12,6 @@ Hi! I'm a Software Engineering student and here is my GitHub profile :octocat:
 
 <h3> Currently: </h3>
 
-  - Working as an Intern at [VisioTT](https://github.com/Alperencode/VisioTT) 💼
-
   - Developing my personal project [Library-Management-System](https://github.com/Alperencode/Library-Management-System) 👨‍💻
 
   - Developing side-projects with [C and C++](https://github.com/Alperencode/C-and-CPP/tree/master/Projects) ✍
