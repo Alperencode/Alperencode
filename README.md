@@ -14,7 +14,7 @@ Hi! I'm a Software Engineering student and here is my GitHub profile :octocat:
 
   - Developing my personal project [Library-Management-System](https://github.com/Alperencode/Library-Management-System) 👨‍💻
 
-  - Developing side-projects with [C and C++](https://github.com/Alperencode/C-and-CPP/tree/master/Projects) ✍
+  - Developing side-projects with [C and C++](https://github.com/Alperencode/C-and-CPP) ✍
 
     - [Process Manager](https://github.com/Alperencode/Process-Manager) (UNIX)
   
@@ -25,9 +25,9 @@ Hi! I'm a Software Engineering student and here is my GitHub profile :octocat:
   
     - [CodeWars](https://www.codewars.com/users/Alperencode)
   
-    - [HackerRank](https://www.hackerrank.com/alperencode?hr_r=1)
-  
     - [LeetCode](https://leetcode.com/alperencode)
+  
+    - [HackerRank](https://www.hackerrank.com/alperencode?hr_r=1)
   
     - [AlgoLeague](https://algoleague.com/profile/alperencode/overview)
   
