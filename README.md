@@ -16,7 +16,7 @@ Hi! I'm a Software Engineering student and here is my GitHub profile :octocat:
 
   - Developing my personal project [Library-Management-System](https://github.com/Alperencode/Library-Management-System) 👨‍💻
 
-  - Developing side-projects with [C and C++](https://github.com/Alperencode/C-and-CPP) in my free time✍
+  - Developing side-projects with [C and C++](https://github.com/Alperencode/C-and-CPP) ✍
 
     - [Process Manager](https://github.com/Alperencode/Process-Manager) (UNIX)
   
