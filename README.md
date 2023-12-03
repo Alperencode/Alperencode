@@ -12,9 +12,11 @@ Hi! I'm a Software Engineering student and here is my GitHub profile :octocat:
 
 <h3> Currently: </h3>
 
+  - Working on JSP web project [Event Registration System](https://github.com/Alperencode/Event-Registration-System) 🌐
+
   - Developing my personal project [Library-Management-System](https://github.com/Alperencode/Library-Management-System) 👨‍💻
 
-  - Developing side-projects with [C and C++](https://github.com/Alperencode/C-and-CPP) ✍
+  - Developing side-projects with [C and C++](https://github.com/Alperencode/C-and-CPP) in my free time✍
 
     - [Process Manager](https://github.com/Alperencode/Process-Manager) (UNIX)
   
