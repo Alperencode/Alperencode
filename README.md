@@ -12,8 +12,7 @@ Hi! I'm a Software Engineering student and here is my GitHub profile :octocat:
 
 <h3> Currently: </h3>
 
-  - Working on my [Embedded Linux](https://github.com/Alperencode/Embedded_Linux) internship project 🌐
-    - Developing [AT-Lib](https://github.com/Alperencode/AT-Lib) 
+  - Working at [Sixfab](https://github.com/sixfab) as a Part-time Embedded Linux Developer 💼
 
   - Finished up my JSP Web Project [Event Registration System](https://github.com/Alperencode/Event-Registration-System) 🎫
 
@@ -55,9 +54,10 @@ Hi! I'm a Software Engineering student and here is my GitHub profile :octocat:
 <h2 align="center">Techs I've used:</h2>
 
 <p align="center">
-<code><img width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></code>
-<code><img width="13%" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-ar21.svg"></code>
+<code><img width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></code>
+<code><img width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/arduino/arduino-ar21.svg"></code>
+<code><img width="13%" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-ar21.svg"></code>
 <code><img width="7%" src="img/blazor.svg"></code> <br>
 <code><img width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></code>
 <code><img width="5%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg"></code>
@@ -73,6 +73,7 @@ Hi! I'm a Software Engineering student and here is my GitHub profile :octocat:
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
 <br>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-ar21.svg"></code>
 <code><img width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg"></code>
 
