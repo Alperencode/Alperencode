@@ -14,8 +14,6 @@ Hi! I'm a Software Engineering student and here is my GitHub profile :octocat:
 
   - Working at [Sixfab](https://github.com/sixfab) as a Part-time Embedded Linux Developer 💼
 
-  - Finished up my JSP Web Project [Event Registration System](https://github.com/Alperencode/Event-Registration-System) 🎫
-
   - Developing side-projects with [C and C++](https://github.com/Alperencode/C-and-CPP) ✍
 
     - [Process Manager](https://github.com/Alperencode/Process-Manager) (UNIX)
