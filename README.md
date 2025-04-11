@@ -12,7 +12,7 @@ Hi! I'm a Software Engineering student and here is my GitHub profile :octocat:
 
 <h3> Currently: </h3>
 
-  - Working at [Sixfab](https://github.com/sixfab) as a Part-time Embedded Linux Developer 💼
+  - Working at [Sixfab](https://github.com/sixfab) as an Embedded Software Developer 💼
 
   - Developing side-projects with [C and C++](https://github.com/Alperencode/C-and-CPP) ✍
 
@@ -43,6 +43,7 @@ Hi! I'm a Software Engineering student and here is my GitHub profile :octocat:
 
 <p align="center">
 <code><img width="10%" src="img/python-ar21.svg"></code>
+<code><img width="8%" src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Blue.svg"></code>
 <code><img width="5%" src="img/c-original.svg"></code>
 <code><img width="5%" src="img/csharp-original.svg"></code>
 </p>
@@ -53,7 +54,6 @@ Hi! I'm a Software Engineering student and here is my GitHub profile :octocat:
 
 <p align="center">
 <code><img width="6%" src="img/cplusplus-original.svg"></code>
-<code><img width="6%" src="img/go-original.svg"></code>
 <code><img width="10%" src="img/arduino-ar21.svg"></code>
 <code><img width="13%" src="img/dartlang-ar21.svg"></code>
 <code><img width="7%" src="img/blazor.svg"></code> <br>
@@ -68,7 +68,7 @@ Hi! I'm a Software Engineering student and here is my GitHub profile :octocat:
 <p align="center">
 <code><img width="5%" src="img/linux-icon.svg"></code>
 <code><img width="4%" src="img/vim-icon.svg"></code>
-<code><img width="10%" src=img/visualstudio_code-ar21.svg"></code>
+<code><img width="10%" src="img/visualstudio_code-ar21.svg"></code>
 <br>
 <code><img width="10%" src="img/git-scm-ar21.svg"></code>
 <code><img width="10%" src="img/raspberrypi-ar21.svg"></code>
