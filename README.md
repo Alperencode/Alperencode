@@ -4,32 +4,34 @@
 
 <br>
 
-<h3 align="Left"> Alperen Ağa | Software Engineering Student</h3>
+<h3 align="Left"> Alperen Ağa | Embedded Linux Developer</h3>
 
-Hi! I'm a Software Engineering student and here is my GitHub profile :octocat:
+Hi! I'm a Software Engineer focusing on **system programming**, **embedded development**, and **micro-services** :octocat:
 
 <br>
 
 <h3> Currently: </h3>
 
-  - Working at [Sixfab](https://github.com/sixfab) as an Embedded Software Developer 💼
+- Working at [Sixfab](https://github.com/sixfab) as an **Embedded Linux Developer** 💼  
 
-  - Developing side-projects with [C and C++](https://github.com/Alperencode/C-and-CPP) ✍
+- Developing side-projects in **C, C++**, and **Go** ✍️
 
-    - [Process Manager](https://github.com/Alperencode/Process-Manager) (UNIX)
-  
-    - [C Shell](https://github.com/Alperencode/C-Shell) (UNIX)
-  
+  - [Process Manager](https://github.com/Alperencode/Process-Manager) (UNIX)  
 
-  - Solving [Algorithm Problems](https://github.com/Alperencode/Algorithm-Solutions) in my free time 👨‍💻
+  - [C Shell](https://github.com/Alperencode/C-Shell) (UNIX)
   
-    - [CodeWars](https://www.codewars.com/users/Alperencode)
-  
-    - [LeetCode](https://leetcode.com/alperencode)
-  
-    - [HackerRank](https://www.hackerrank.com/alperencode?hr_r=1)
-  
-    - [AlgoLeague](https://algoleague.com/profile/alperencode/overview)
+  - [TCP-Chat](https://github.com/Alperencode/TCP-Chat) (Go)
+
+
+- Solving [Algorithm Problems](https://github.com/Alperencode/Algorithm-Solutions) in my free time 👨‍💻
+
+  - [CodeWars](https://www.codewars.com/users/Alperencode)  
+
+  - [LeetCode](https://leetcode.com/alperencode)  
+
+  - [HackerRank](https://www.hackerrank.com/alperencode?hr_r=1)  
+
+  - [AlgoLeague](https://algoleague.com/profile/alperencode/overview)
   
   
 <br><br>
@@ -39,7 +41,7 @@ Hi! I'm a Software Engineering student and here is my GitHub profile :octocat:
 
 <br>
 
-<h2 align="center">Main Techs I use:</h2>
+<h2 align="center">Main Techs I Use</h2>
 
 <p align="center">
 <code><img width="10%" src="img/python-ar21.svg"></code>
@@ -54,9 +56,11 @@ Hi! I'm a Software Engineering student and here is my GitHub profile :octocat:
 
 <p align="center">
 <code><img width="6%" src="img/cplusplus-original.svg"></code>
-<code><img width="10%" src="img/arduino-ar21.svg"></code>
+<code><img width="8%" src="img/bash.svg"></code>
+<code><img width="6%" src="img/java.svg"></code>
+<code><img width="10%" src="img/arduino-ar21.svg"></code><br>
 <code><img width="13%" src="img/dartlang-ar21.svg"></code>
-<code><img width="7%" src="img/blazor.svg"></code> <br>
+<code><img width="7%" src="img/blazor.svg"></code>
 <code><img width="5%" src="img/html5-original.svg"></code>
 <code><img width="5%" src="img/w3_css-icon.svg"></code>
 <code><img width="5%" src="img/php-original.svg"></code>
@@ -64,17 +68,16 @@ Hi! I'm a Software Engineering student and here is my GitHub profile :octocat:
 
 <br>
 
-<h2 align="center">Tools:</h3>
+<h2 align="center">Tools</h2>
 <p align="center">
 <code><img width="5%" src="img/linux-icon.svg"></code>
 <code><img width="4%" src="img/vim-icon.svg"></code>
-<code><img width="10%" src="img/visualstudio_code-ar21.svg"></code>
-<br>
 <code><img width="10%" src="img/git-scm-ar21.svg"></code>
+<code><img width="8%" src="img/postman.svg"></code><br>
 <code><img width="10%" src="img/raspberrypi-ar21.svg"></code>
+<code><img width="10%" src="img/visualstudio_code-ar21.svg"></code>
 <code><img width="10%" src="img/unity3d-ar21.svg"></code>
 <code><img width="5%" src="img/flutter-original.svg"></code>
-
 </p>
 
 <br><br>
