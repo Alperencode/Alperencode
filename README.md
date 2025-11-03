@@ -57,7 +57,7 @@ Hi! I'm a Software Engineer focusing on **system programming**, **embedded devel
 <p align="center">
 <code><img width="6%" src="img/cplusplus-original.svg"></code>
 <code><img width="8%" src="img/bash.svg"></code>
-<code><img width="6%" src="img/java.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
 <code><img width="10%" src="img/arduino-ar21.svg"></code><br>
 <code><img width="13%" src="img/dartlang-ar21.svg"></code>
 <code><img width="7%" src="img/blazor.svg"></code>
